@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qdi8CdBwQTvsqqve8Oh8d/9ExKQ6NME0nIJmXCbAPa7sTeQC4m52yjfNKK+rDZD3qv9HPxkt8LUMj/TFIaor3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\henry\\OneDrive\\Escritorio\\PT\\frontend\\frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henry\\.nuget\\packages\\microsoft.identity.web.projecttemplates\\1.26.0\\microsoft.identity.web.projecttemplates.1.26.0.nupkg.sha512"
+  ],
+  "logs": []
+}
